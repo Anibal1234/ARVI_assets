@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coffe Machine
+* source:	https://sketchfab.com/3d-models/coffe-machine-4fc86d231e1f4f1fb32fcad11891a5da
+* author:	Red Fox / nokillnando (https://sketchfab.com/nokillnando)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coffe Machine" (https://sketchfab.com/3d-models/coffe-machine-4fc86d231e1f4f1fb32fcad11891a5da) by Red Fox / nokillnando (https://sketchfab.com/nokillnando) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
